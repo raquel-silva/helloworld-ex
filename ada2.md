@@ -1,10 +1,3 @@
-# helloworld-ex
-<! DOCTYPE html>
-<html>
-<head>
-  <meta charset='utf-8'
-</head>
-
 <p> Você já ouviu falar em </p>
 <p><strong> Ada Lovelace?</strong></p>
 <br>
