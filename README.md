@@ -1,4 +1,5 @@
 # helloworld-ex
-<html>
+</html>
 <p> Você já ouviu falar em </p>
-<html>
+<p><strong> Ada Lovelace?</strong></p>
+</html>
