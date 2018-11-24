@@ -1,11 +1,9 @@
-<!doctype html>
-<p> Você já ouviu falar em </p>
-<p><strong> Ada Lovelace?</strong></p>
-<br>
-<p><i>Essa condessa é considerada a <strong>primeira programadora da história!</i></strong></p>
-<br><br>
-<p><em>Lugar de mulher é onde ela quiser!(autor desconhecido)</em></p>
-<img src="ada.jpg" alt="Ada Lovelace de perfil" "width="200" height="150">
-<a href= "https://www.youtube.com/watch?v=4JnEd5lHCU0" target="_blank">Saiba mais</a>
-                                                                       
-</html>
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <title> Ada Lovelace</title>
+     <meta charset="utf - 8">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+     <link rel="stylesheet" type="text/css"href="styles.css">
+   </head>
