@@ -1,0 +1,9 @@
+.titulo {color: rgb(213, 47, 255);
+    background-color: lightgray;
+    font-size: 25px;
+    margin: 10px 25px;
+    padding: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.corpo {color:darkgrey}
