@@ -1,0 +1,43 @@
+body{
+    background-color: #d3d3d3;
+
+}
+
+header{
+    background: url("aulas.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section i {
+    font-size: 4.5rem;
+} 
+
+footer i{
+    font-size: 2rem;
+}
+
+.imagem{
+    background: url("bg-showcase-1.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
+
+.container-fluid{
+    background-color: rgb(201, 199, 199)
+}
